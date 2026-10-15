@@ -9,6 +9,7 @@ Analyze it: answer business questions with SQL.
 ## 🛠️ Important Links & Tools
 
 SQL Server and SSMS: the setup guide in 00_setup has the links and every step.
+
 Git: a GitHub account, to save and share your project.
 
 
